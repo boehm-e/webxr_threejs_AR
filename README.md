@@ -64,14 +64,14 @@ Out of the box the project comes with an example : MyArScene.js
 - Click on the screen
 - A green box appears on the ground
 
-![demo](demo/demo.jpg | width=400)
+<img src="demo/demo.jpg" width="400"/>
 
 ## Online Demo:
 If you want to see what I have done beginning from this project: <br/>
 Go to my personal website, and click the top banner to start the AR experience (yes it is in french :/)
 [https://boehm-e.github.io/](https://boehm-e.github.io/) <br/><br/>
 
-![demo](demo/demo_website.gif | width=400)
+<img src="demo/demo_website.gif" width="400"/>
 
 
 
