@@ -67,7 +67,7 @@ Out of the box the project comes with an example : MyArScene.js
 <img src="demo/demo.jpg" width="400"/>
 
 ## Online Demo:
-If you want to see what I have done beginning from this project: <br/>
+If you want to see what I have done sttarting from this project: <br/>
 Go to my personal website, and click the top banner to start the AR experience (yes it is in french :/)
 [https://boehm-e.github.io/](https://boehm-e.github.io/) <br/><br/>
 
